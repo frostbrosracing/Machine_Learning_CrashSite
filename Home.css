@@ -40,12 +40,12 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 231px;
+  min-height: 214px;
 }
 
 .u-section-2 .u-text-1 {
   font-size: 1.125rem;
-  margin: 23px 23px 35px;
+  margin: 23px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -63,14 +63,14 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 1046px;
+  min-height: 577px;
 }
 
 .u-section-3 .u-image-1 {
   width: 1029px;
-  height: 677px;
+  height: 450px;
   animation-duration: 1000ms;
-  margin: 0 auto 60px;
+  margin: 12px auto 60px;
 }
 
 @media (max-width: 1199px) {
